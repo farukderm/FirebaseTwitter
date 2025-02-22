@@ -20,3 +20,7 @@ Mevcut tweetleri silebilir ve güncelleyebilirsiniz.
 Kullanıcı dostu bildirimler için React Toastify kullanılır.
 
 ## Ekran görüntüsü
+
+
+https://github.com/user-attachments/assets/e07ddf29-b302-4044-bab9-71debdcab2fa
+
